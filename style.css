@@ -1,6 +1,4 @@
-#main {
-    width: 100%;
-    height: 100rem;
-    margin:7% ;
-    background-color: aquamarine;
-  }
+body{
+    background-color: black;
+    color:white;
+}
